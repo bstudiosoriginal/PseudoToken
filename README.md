@@ -8,7 +8,7 @@ This program is a simple contract written in Solidity, a programming language us
 The easiest way to get started is through the Remix website at https://remix.ethereum.org/. 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., tokenContract.sol). Copy and paste the content of the tokencontract.sol code into the file.
 
-To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18" (or another compatible version), and then click on the "Compile tokenContract.sol" button.
+To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.18", and then click on the "Compile tokenContract.sol" button.
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "tokenContract" contract from the dropdown menu, and then click on the "Deploy" button.
 
