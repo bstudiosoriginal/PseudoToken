@@ -12,6 +12,6 @@ To compile the code, click on the "Solidity Compiler" tab in the left-hand sideb
 
 Once the code is compiled, you can deploy the contract by clicking on the "Deploy & Run Transactions" tab in the left-hand sidebar. Select the "tokenContract" contract from the dropdown menu, and then click on the "Deploy" button.
 
-Once the contract is deployed, you can interact with it by calling the mint function with a hex address and a value. You can also burn currency with these same parameters. Click on the "tokenContract" contract in the left-hand sidebar, and then click on the "mint" or "burn" functions. Finally, click on the "transact" button to execute the function and view the total Value.
+Once the contract is deployed, you can interact with it by calling the mint function with a hex address and a value. You can also burn currency with these same parameters. Click on the "tokenContract" contract in the left-hand sidebar, and then click on the "mint" or "burn" functions. Finally, click on the function name or variable to view it's value. Enjoy!
 
 
